@@ -1,0 +1,5 @@
+print ("Nama: Ariiq Rakhman Setiana")
+print ("NIM: I0322017")
+print ()
+print ("    Kampung halaman saya berada di Bekasi, tepatnya di Perum Bulevar Hijau, Blok I-8 No.15, RT 003 Rw 024, Kel. Pejuang, Kec. Medan Satria. Rumah saya berada di kawasan industri dengan penduduk yang cukup padat. Kampung halaman saya sudah cukup dipenuhi oleh berbagai akses mulai tempat belanja, rumah sakit, sekolah, dan lain-lain.")
+print ("Harapan saya sebagai lulusan Teknik Industri bisa bekerja sesuai dengan apa yang telah saya pelajari di Teknik Industri")
